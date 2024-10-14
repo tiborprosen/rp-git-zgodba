@@ -1,5 +1,5 @@
 # Nadaljnja navodila
-
+42
 1. Sedaj imaš lokalno kopijo repozitorija.
    Odprite direktorij z repozitorijem v 
 2. Poženite skripto, da boste lahko preigrali zgodbo:
@@ -12,3 +12,4 @@
    za katere git še ne ve. Sedaj napišite `git commit -m "Moj prvi commit"` in
    s tem povejte git-u, naj spremembe shrani v repozitorij.
 7. Glejte ukazno vrstico za nadaljnja navodila.
+
