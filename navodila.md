@@ -1,3 +1,4 @@
+
 # Nadaljnja navodila
 42
 1. Sedaj imaš lokalno kopijo repozitorija.
